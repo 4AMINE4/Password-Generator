@@ -1,0 +1,97 @@
+.cardboard {
+    background-color: #273549;
+    width: 670.87px;
+    height: 670.87px;
+    padding: 40px 150px;
+
+}
+
+
+#generate {
+    font-family: Karla;
+    font-size: 48.8px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-bottom: -45px;
+}
+
+#random {
+    font-family: Karla;
+    font-weight: bold;
+    font-size: 48.8px;
+    color: #4ADF86;
+    margin-bottom: -10px;
+    
+}
+
+p {
+    font-family: Inter;
+    font-size: 24.4px;
+    color: #D5D4D8;
+}
+
+#genPass{
+    background-color: #4ADF86;
+    color: white;
+    font-family: Inter;
+    font-size: 19.51px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+hr {
+    border: 1.21976px solid #2F3E53;
+    margin-top: 42px;
+}
+
+#passwords {
+    display: flex
+}
+
+#password1, #password2 {
+    width: 257.37px;
+    height: 37.57px;
+    background-color: #274166;
+    text-align: center;
+    padding-top: 10px;
+    font-family: Inter;
+    font-size: 19.51px;
+    color: #4ADF86;
+    border: none;
+    border-radius: 5px;
+    margin-top: 42px;
+    margin-right: 29.27px;
+
+}
+
+.Copy {
+    display: inline-block;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 400;
+    background-color:#4ADF86;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 42px;
+    margin-right: 29.27px;
+    padding:inherit;
+    border: 1px solid white;
+
+}
+#length {
+    color: White;
+    font-family: Karla;
+}
+#pass-length {
+    margin-top:20px;
+    width: 120px;
+    height 40px;
+    font-family: Inter;
+    font-weight: 400;
+    background-color:#4ADF86;
+    color: white;
+
+}
